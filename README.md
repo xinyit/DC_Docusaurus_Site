@@ -1,6 +1,6 @@
-# Website
+### About
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+A clean documentation site for Urban Redevelopment Authority's Development Control Guidelines built using [Docusaurus 2](https://docusaurus.io/)
 
 ### Installation
 
